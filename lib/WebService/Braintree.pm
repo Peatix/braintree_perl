@@ -5,7 +5,7 @@ package WebService::Braintree;
 use 5.010_001;
 use strictures 1;
 
-our $VERSION = "1.721";
+our $VERSION = "1.722";
 
 # Load the error codes omnibus so clients can get at them.
 use WebService::Braintree::ErrorCodes;
